@@ -13,5 +13,8 @@ public class Usuario {
     private String lastname;
     private String dni;
     private String email;
+    private String password;
 
 }
+
+
