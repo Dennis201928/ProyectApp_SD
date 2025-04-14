@@ -1,4 +1,4 @@
-package main.java.com.proyect.app.Proyect.auth.security;
+package com.proyect.app.Proyect.auth.security;
 
 import java.sql.Date;
 import java.util.HashMap;

@@ -1,10 +1,10 @@
-package main.java.com.proyect.app.Proyect.auth.security;
+package com.proyect.app.Proyect.auth.security;
 
 import org.springframework.data.annotation.Id;
 import org.springframework.data.relational.core.mapping.Column;
 import org.springframework.data.relational.core.mapping.Table;
 
-// import lombok.Data;
+import lombok.Data;
 
 @Data
 @Table("auth\".\"authorities")
