@@ -20,7 +20,7 @@ import org.springframework.web.bind.annotation.RestController;
 @CrossOrigin ({"*"})
 
 public class UsuarioController {
-    
+
     @Autowired
     private UsuarioService usuarioService;
 
